@@ -25,3 +25,6 @@ Hey this is tushar B. Tech 2nd year student my skills are html, css, javascript,
 [![](https://visitcount.itsvg.in/api?id=Kumartusha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=GAMECHANGER&label=Profile%20Views&pretty=false" />
+</a>
