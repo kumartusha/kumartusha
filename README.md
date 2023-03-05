@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey this is tushar B. Tech 2nd year student my skills are html, css, javascript, java and also Mysql currently i am Learning javascript and some framework like bootstrap and React also...
+Hey this is tushar B. Tech 2nd year student my skills are html, css,java and also Mysql currently i am Learning javascript and some framework like bootstrap and React also...
 
 
 ## 🌐 Socials:
