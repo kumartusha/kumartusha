@@ -21,7 +21,7 @@ Hey this is tushar B. Tech 2nd year student my skills are html, css,java and als
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-{"postLink":"https://redd.it/11jpza3","subreddit":"me_irl","title":"Me_irl","url":"https://i.redd.it/z0m3wb3qm3ma1.jpg","nsfw":false,"spoiler":false,"author":"Party_Ad_5428","ups":86,"preview":["https://preview.redd.it/z0m3wb3qm3ma1.jpg?width=108\u0026crop=smart\u0026auto=webp\u0026v=enabled\u0026s=f9de9a19af705d41d6b418fb8fea4dec38bd8a43","https://preview.redd.it/z0m3wb3qm3ma1.jpg?width=216\u0026crop=smart\u0026auto=webp\u0026v=enabled\u0026s=443a7dc5b33f27bb19223d60a66ae016ad168750","https://preview.redd.it/z0m3wb3qm3ma1.jpg?width=320\u0026crop=smart\u0026auto=webp\u0026v=enabled\u0026s=9405082112d905ca1559b5c20584a08e1a2bb51b","https://preview.redd.it/z0m3wb3qm3ma1.jpg?width=640\u0026crop=smart\u0026auto=webp\u0026v=enabled\u0026s=0b2cd288ca67bfcd3eae7ba4c8d4c806fb87ae07","https://preview.redd.it/z0m3wb3qm3ma1.jpg?width=960\u0026crop=smart\u0026auto=webp\u0026v=enabled\u0026s=01f97a610864600bbc6245ba43a4718503698db9","https://preview.redd.it/z0m3wb3qm3ma1.jpg?width=1080\u0026crop=smart\u0026auto=webp\u0026v=enabled\u0026s=998ed6f40c626d0b5cc2b99cbb510a1890059ce3"]}
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kumartusha&icon=0&color=0)](https://visitcount.itsvg.in)
