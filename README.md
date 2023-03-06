@@ -19,9 +19,6 @@ Hey this is tushar B. Tech 2nd year student my skills are html, css,java and als
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src="https://meme-api.com/gimme/wholesomememes/2" width="512px"/>
-
 
 
 ---
