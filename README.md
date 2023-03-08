@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hey this is tushar B. Tech 2nd year student my skills are html, css,java and also Mysql currently i am Learning javascript and some framework like bootstrap and React also...
+Hey ✋, This is Tushar..
+
+More About Me:
+✍ I am 2nd Year (CSE) Student..
+🌱 I’m currently learning ReactJs and bootstrap..
+💬 I am always happy in our life...
+📫 Way to reach me:--https://www.linkedin.com/company/linkedin/?originalSubdomain=in
 
 
 ## 🌐 Socials:
