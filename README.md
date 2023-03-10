@@ -26,9 +26,6 @@
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Kumartusha&icon=7&color=7)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
