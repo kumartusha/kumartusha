@@ -1,6 +1,6 @@
 # 💫 About Me:
                         ###              Hi there 👋             ###
-                        <br>
+                        
                         * 👂  This is Tushar,
                         * 🔭 I’m currently working on javascript.
                         * 🌱 I’m currently learning react.js and BootStrap. 
