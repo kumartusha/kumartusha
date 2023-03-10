@@ -6,8 +6,6 @@ More About Me:
 
 🌱 I’m currently learning ReactJs and bootstrap..
 
-💬 I am always happy in our life...
-
 📫 Way to reach me:--https://www.linkedin.com/company/linkedin/?originalSubdomain=in
 
 
