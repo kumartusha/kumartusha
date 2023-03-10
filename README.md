@@ -1,13 +1,13 @@
 # 💫 About Me:
                         ###              Hi there 👋             ###
                         <br>
-                        * 👂  This is Tushar,<br>
-                        * 🔭 I’m currently working on javascript.<br>
-                        * 🌱 I’m currently learning react.js and BootStrap.<br> 
-                        * 🤝 I’m looking to collaborate on Communities.<br>
-                        * 💬 I am B.tech 2nd year (CSE) Student. <br>    
-                        * 📫 How to reach me https://www.linkedin.com/company/linkedin/?originalSubdomain=in<br>     
-                        * ❤️ I Like to learn new softwares and Technology.<br>  
+                        * 👂  This is Tushar,
+                        * 🔭 I’m currently working on javascript.
+                        * 🌱 I’m currently learning react.js and BootStrap. 
+                        * 🤝 I’m looking to collaborate on Communities.
+                        * 💬 I am B.tech 2nd year (CSE) Student.   
+                        * 📫 How to reach me https://www.linkedin.com/company/linkedin/?originalSubdomain=in     
+                        * ❤️ I Like to learn new softwares and Technology. 
                         * ⚡ Aim to become Full Stack Developer.
 
 
@@ -24,8 +24,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kumartusha&icon=7&color=7)](https://visitcount.itsvg.in)
