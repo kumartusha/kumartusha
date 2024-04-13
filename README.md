@@ -5,7 +5,7 @@
                         * 🔭 I’m currently working on javascript.
                         * 🌱 I’m currently learning react.js and BootStrap. 
                         * 🤝 I’m looking to collaborate on Communities.
-                        * 💬 I am B.tech 2nd year (CSE) Student.   
+                        * 💬 I am Pre Final B.tech (CSE) Student.   
                         * 📫 How to reach me https://www.linkedin.com/company/linkedin/?originalSubdomain=in     
                         * ❤️ I Like to learn new softwares and Technology. 
                         * ⚡ Aim to become Full Stack Developer.
