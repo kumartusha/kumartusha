@@ -84,7 +84,7 @@
 <div align=center>
 <a align="center" href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" title="Algorithms"><img align="center" height="115" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/>
 <hr>
 </p>
 
