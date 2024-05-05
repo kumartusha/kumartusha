@@ -78,8 +78,7 @@
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumartusha&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
+<br/><br/><br/><br/><br/><br/>
 <h2 align="center">👨Random Dev Quotes👨</h2>
 <br>
 <div align=center>
@@ -87,6 +86,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <hr>
+</p>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
