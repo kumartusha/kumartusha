@@ -78,11 +78,11 @@
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumartusha&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<br/><br/><br/><br/><br/><br/>
+<br/>
 <h2 align="center">👨Random Dev Quotes👨</h2>
 <br>
 <div align=center>
-<a align="center" href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" title="Algorithms"><img align="left" height="115" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"></a>
+<a align="center" href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" title="Algorithms"><img align="center" height="115" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <hr>
