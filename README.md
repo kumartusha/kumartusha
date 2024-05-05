@@ -31,7 +31,7 @@
   <br>
   💬 Ask me anything about from <a href="https://personal-portfolio-nine-olive.vercel.app/" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: kumartushar78867@gmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: kumartushar78867@gmail.com">kumartushar78867@gmail.com</a>
 </p>
 
 <hr>
