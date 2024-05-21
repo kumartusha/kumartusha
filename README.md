@@ -19,7 +19,7 @@
   Hi, I'm Tushar KUMAR, Web Developer...
   <br>
   <br>
-  🔬 I'm currently studying my engineering at AKTU, Department of Computer Engineering and Engineering
+  🔬 I'm currently studying my engineering at AKTU, Department of Computer Science Engineering
   <br>
   🎓 I graduated from Tulsi Ram Maheshwari Public School(High School & Intermediate School)
   <br>
