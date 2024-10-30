@@ -16,7 +16,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Tushar KUMAR, Web Developer...
+  Hi, I'm Tushar KUMAR, Data Analyst...
   <br>
   <br>
   🔬 I'm currently studying my engineering at AKTU, Department of Computer Science Engineering
@@ -27,7 +27,7 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Web dev. Stack
   <br>
-     Aim to become Full Stack Developer
+     Aim to become Data Scientist
   <br>
   💬 Ask me anything about from <a href="https://personal-portfolio-nine-olive.vercel.app/" title="Issues">Here</a>
   <br>
