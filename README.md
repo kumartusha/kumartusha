@@ -48,10 +48,8 @@
 <code><img title="Pandas" height="25" src="https://img.icons8.com/color/48/000000/pandas.png"></code>
 <code><img title="NumPy" height="25" src="https://img.icons8.com/color/48/000000/numpy.png"></code>
 <code><img title="Google Analytics" height="25" src="https://img.icons8.com/color/48/000000/google-analytics.png"></code>
-<code><img title="Matplotlib" height="25" src="https://img.icons8.com/ios/50/000000/matplotlib.png"></code> **Matplotlib**  
-<code><img title="Seaborn" height="25" src="https://img.icons8.com/ios/50/000000/seaborn.png"></code> **Seaborn**  
-<code><img title="Git" height="25" src="https://img.icons8.com/ios/50/000000/git.png"></code> **Git**  
-<code><img title="GitHub" height="25" src="https://img.icons8.com/ios/50/000000/github.png"></code> **GitHub**
+<code><img title="Git" height="25" src="https://img.icons8.com/ios/50/000000/git.png"></code>  
+<code><img title="GitHub" height="25" src="https://img.icons8.com/ios/50/000000/github.png"></code>
 
 </p>
 <hr>
