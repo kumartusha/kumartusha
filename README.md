@@ -60,6 +60,7 @@
 <code><img title="Knime" height="25" src="https://img.icons8.com/color/48/000000/knime.png"></code>
 <code><img title="QlikView" height="25" src="https://img.icons8.com/color/48/000000/qlikview.png"></code>
 
+
 </p>
 <hr>
 
