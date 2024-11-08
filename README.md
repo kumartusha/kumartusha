@@ -38,20 +38,28 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="https://img.icons8.com/color/48/000000/c.png"></code>
-<code><img title="C++" height="25" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
 <code><img title="Python" height="25" src="https://img.icons8.com/color/48/000000/python.png"></code>
-<code><img title="Javascript" height="25" src="https://img.icons8.com/color/48/000000/javascript.png"></code>
-<code><img title="Problem Solving" height="25" src="https://img.icons8.com/ios/50/000000/problem.png"></code>
-<code><img title="HTML5" height="25" src="https://img.icons8.com/color/48/000000/html-5.png"></code>
-<code><img title="CSS" height="25" src="https://img.icons8.com/color/48/000000/css3.png"></code>
-<code><img title="Git" height="25" src="https://img.icons8.com/ios/50/000000/git.png"></code>
-<code><img title="Visual Studio Code" height="25" src="https://img.icons8.com/ios/50/000000/visual-studio-code-2019.png"></code>
-<code><img title="Microsoft Visual Studio" height="25" src="https://img.icons8.com/ios/50/000000/visual-studio.png"></code>
-<code><img title="Java" height="25" src="https://img.icons8.com/color/48/000000/java.png"></code>
-<code><img title="JSON" height="25" src="https://img.icons8.com/ios/50/000000/json.png"></code>
-<code><img title="GitHub" height="25" src="https://img.icons8.com/ios/50/000000/github.png"></code>
-<code><img title="MySQL" height="25" src="https://img.icons8.com/ios/50/000000/mysql.png"></code>
+<code><img title="R" height="25" src="https://img.icons8.com/color/48/000000/r.png"></code>
+<code><img title="SQL" height="25" src="https://img.icons8.com/color/48/000000/sql.png"></code>
+<code><img title="Excel" height="25" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"></code>
+<code><img title="Tableau" height="25" src="https://img.icons8.com/color/48/000000/tableau.png"></code>
+<code><img title="Power BI" height="25" src="https://img.icons8.com/color/48/000000/power-bi.png"></code>
+<code><img title="Jupyter" height="25" src="https://img.icons8.com/ios/50/000000/jupyter.png"></code>
+<code><img title="Apache Hadoop" height="25" src="https://img.icons8.com/color/48/000000/apache-hadoop.png"></code>
+<code><img title="Apache Spark" height="25" src="https://img.icons8.com/color/48/000000/apache-spark.png"></code>
+<code><img title="MATLAB" height="25" src="https://img.icons8.com/ios/50/000000/matlab.png"></code>
+<code><img title="D3.js" height="25" src="https://img.icons8.com/color/48/000000/d3.png"></code>
+<code><img title="Pandas" height="25" src="https://img.icons8.com/color/48/000000/pandas.png"></code>
+<code><img title="NumPy" height="25" src="https://img.icons8.com/color/48/000000/numpy.png"></code>
+<code><img title="Scikit-learn" height="25" src="https://img.icons8.com/color/48/000000/scikit-learn.png"></code>
+<code><img title="Seaborn" height="25" src="https://img.icons8.com/color/48/000000/seaborn.png"></code>
+<code><img title="Power Query" height="25" src="https://img.icons8.com/color/48/000000/power-query.png"></code>
+<code><img title="Google Analytics" height="25" src="https://img.icons8.com/color/48/000000/google-analytics.png"></code>
+<code><img title="Google BigQuery" height="25" src="https://img.icons8.com/color/48/000000/google-bigquery.png"></code>
+<code><img title="SAS" height="25" src="https://img.icons8.com/color/48/000000/sas.png"></code>
+<code><img title="Knime" height="25" src="https://img.icons8.com/color/48/000000/knime.png"></code>
+<code><img title="QlikView" height="25" src="https://img.icons8.com/color/48/000000/qlikview.png"></code>
+
 </p>
 <hr>
 
