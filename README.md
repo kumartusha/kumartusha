@@ -38,20 +38,20 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="C" height="25" src="https://img.icons8.com/color/48/000000/c.png"></code>
+<code><img title="C++" height="25" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
+<code><img title="Python" height="25" src="https://img.icons8.com/color/48/000000/python.png"></code>
+<code><img title="Javascript" height="25" src="https://img.icons8.com/color/48/000000/javascript.png"></code>
+<code><img title="Problem Solving" height="25" src="https://img.icons8.com/ios/50/000000/problem.png"></code>
+<code><img title="HTML5" height="25" src="https://img.icons8.com/color/48/000000/html-5.png"></code>
+<code><img title="CSS" height="25" src="https://img.icons8.com/color/48/000000/css3.png"></code>
+<code><img title="Git" height="25" src="https://img.icons8.com/ios/50/000000/git.png"></code>
+<code><img title="Visual Studio Code" height="25" src="https://img.icons8.com/ios/50/000000/visual-studio-code-2019.png"></code>
+<code><img title="Microsoft Visual Studio" height="25" src="https://img.icons8.com/ios/50/000000/visual-studio.png"></code>
+<code><img title="Java" height="25" src="https://img.icons8.com/color/48/000000/java.png"></code>
+<code><img title="JSON" height="25" src="https://img.icons8.com/ios/50/000000/json.png"></code>
+<code><img title="GitHub" height="25" src="https://img.icons8.com/ios/50/000000/github.png"></code>
+<code><img title="MySQL" height="25" src="https://img.icons8.com/ios/50/000000/mysql.png"></code>
 </p>
 <hr>
 
