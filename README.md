@@ -16,7 +16,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Tushar KUMAR, Data Analyst...
+  Hi, I'm Tushar KUMAR, Developer
   <br>
   <br>
   🔬 I'm currently studying my engineering at AKTU, Department of Computer Science Engineering
