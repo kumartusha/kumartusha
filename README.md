@@ -25,9 +25,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Web dev. Stack
-  <br>
-     Aim to become Data Scientist
+  Aim to become Developer
   <br>
   💬 Ask me anything about from <a href="https://personal-portfolio-nine-olive.vercel.app/" title="Issues">Here</a>
   <br>
