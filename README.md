@@ -1,127 +1,155 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka"> -->
-<!-- <a href="https://visitcount.itsvg.in"> -->
-  <img src="https://visitcount.itsvg.in/api?id=GAMECHANGER&label=Profile%20Views&pretty=false" />
+<div align="center">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tushar+KUMAR....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1040,60:0d1b2a,100:0a0a0a&height=220&section=header&text=Tushar%20Kumar&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Building%20Production%20AI%20Systems&descSize=18&descAlignY=60&descColor=818cf8&animation=fadeIn"/>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/tushar-kumar-670986226/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/profile/kumartushar78867" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/21324150/tushar" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
-<p align="center">
-  Hi, I'm Tushar KUMAR, Developer
-  <br>
-  <br>
-  🔬 I'm currently studying my engineering at AKTU, Department of Computer Science Engineering
-  <br>
-  🎓 I graduated from Tulsi Ram Maheshwari Public School(High School & Intermediate School)
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  Aim to become Developer
-  <br>
-  💬 Ask me anything about from <a href="https://personal-portfolio-nine-olive.vercel.app/" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: kumartushar78867@gmail.com">kumartushar78867@gmail.com</a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=🤖+Agentic+AI+%7C+RAG+Pipelines+%7C+LangGraph;🎙️+Voice+AI+%7C+Document+Intelligence+%7C+LLM+Pipelines;📦+FastAPI+%7C+pgvector+%7C+AWS+%7C+Docker;🧠+Turning+Unstructured+Data+into+Business+Impact" alt="Typing SVG" />
+</a>
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-<code><img title="Python" height="25" src="https://img.icons8.com/color/48/000000/python.png"></code>
-<code><img title="R" height="25" src="https://img.icons8.com/color/48/000000/r.png"></code>
-<code><img title="SQL" height="25" src="https://img.icons8.com/color/48/000000/sql.png"></code>
-<code><img title="Excel" height="25" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"></code>
-<code><img title="Tableau" height="25" src="https://img.icons8.com/ios/50/000000/tableau.png"></code>
-<code><img title="Power BI" height="25" src="https://img.icons8.com/color/48/000000/power-bi.png"></code>
-<code><img title="Jupyter" height="25" src="https://img.icons8.com/ios/50/000000/jupyter.png"></code>
-<code><img title="Pandas" height="25" src="https://img.icons8.com/color/48/000000/pandas.png"></code>
-<code><img title="NumPy" height="25" src="https://img.icons8.com/color/48/000000/numpy.png"></code>
-<code><img title="Google Analytics" height="25" src="https://img.icons8.com/color/48/000000/google-analytics.png"></code>
-<code><img title="Git" height="25" src="https://img.icons8.com/ios/50/000000/git.png"></code>  
-<code><img title="GitHub" height="25" src="https://img.icons8.com/ios/50/000000/github.png"></code>
-
-</p>
-<hr>
-
-<h2 align="center">⚡Github Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Kumartusha&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="kumar-tusha" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Kumartusha&theme=highcontrast&hide_border=false" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumartusha&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </a>
-  </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumartusha&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <br/>
-<h2 align="center">👨Random Dev Quotes👨</h2>
-<br>
-<div align=center>
-<a align="center" href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" title="Algorithms"><img align="center" height="115" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"></a>
-</div>
-<br/>
-<hr>
-</p>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/kumartusha/Ecommerce_Website" title="Ecommerce Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kumartusha&repo=Ecommerce_Website&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/kumartusha/Study-Buddy-Project" title="Study Buddy Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kumartusha&repo=Study-Buddy-Project&theme=react&border_color=61dafb&border_radius=10"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kumar-ai/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumartushar78867@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumartusha)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kumartushar78867)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21324150/tushar)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kumartusha&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
+
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/kumartusha/HTML_CSS_JS_PROJECTS" title="HTML_CSS_JAVASCRIPT"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kumartusha&repo=HTML_CSS_JS_PROJECTS&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/kumartusha/Hacker-Rank-Sql" title="Hacker-Rank-Sql Solutions"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kumartusha&repo=Hacker-Rank-Sql&theme=react&border_color=61dafb&border_radius=10"></a>
+
+---
+
+## 🧠 About Me
+
+```python
+class TusharKumar:
+    role        = "AI / ML Engineer @ Vansun Ventures (91Trucks) — Founder's Office"
+    experience  = "1+ year building production AI systems end-to-end"
+    focus       = ["Agentic AI", "RAG Pipelines", "Voice AI", "Document Intelligence", "Multi-Agent Systems"]
+    stack       = ["LangChain", "LangGraph", "LlamaIndex", "FastAPI", "pgvector", "Whisper"]
+    currently   = "Architecting multi-agent LLM systems that ship to production"
+    superpower  = "Sole AI/ML engineer owning full lifecycle — problem → pipeline → impact"
+    belief      = "Every unstructured data problem is a solved AI problem waiting to happen"
+```
+
+> 🚀 I don't prototype AI — I **ship it**. Production systems, real metrics, measurable business impact.
+
+---
+
+## ⚡ Production Impact
+
+| System | Stack | Impact |
+|--------|-------|--------|
+| 🤖 **Saarthi RAG Chatbot** | LangChain · pgvector · Sentence Transformers | Hallucination ↓ **64%** (22% → <8%) |
+| 📍 **Dealer Recommendation Engine** | Ball Tree KNN · PostGIS · FastAPI | Latency ↓ **82%** (450ms → <80ms P95) |
+| 🎙️ **Call Intelligence Platform** | Whisper large-v3 · pyannote · LLM Extraction | WER ↓ **55%** · F1 ~0.83 · 300+ calls/day |
+| 📄 **Vehicle Document IDP** | Unstructured.io · pdfplumber · LLM Vision | **>94%** field accuracy · Review ↓ 80% |
+| 📊 **Auction ETL Intelligence** | LangChain SQL Agent · Multi-source ETL | **2.5 hrs/day** saved · 300+ listings/week |
+| 🏥 **Clinical Discharge Agent** | LangGraph · Pydantic · LLM-as-a-Judge | Doc time ↓ **80%** (45 min → <8 min) |
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🤖 Agentic & Generative AI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6366f1?style=for-the-badge&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B6B?style=for-the-badge&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-F97316?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+
+### 🧮 Classical ML
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🎙️ Voice & Document AI
+![Whisper](https://img.shields.io/badge/Whisper_large--v3-412991?style=for-the-badge&logo=openai&logoColor=white)
+![pyannote](https://img.shields.io/badge/pyannote.audio-7C3AED?style=for-the-badge&logoColor=white)
+![Unstructured](https://img.shields.io/badge/Unstructured.io-0F172A?style=for-the-badge&logoColor=white)
+![pdfplumber](https://img.shields.io/badge/pdfplumber-DC2626?style=for-the-badge&logoColor=white)
+
+### ⚙️ Infrastructure & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![Clinical Discharge Agent](https://github-readme-stats.vercel.app/api/pin/?username=kumartusha&repo=clinical-discharge-agent&theme=tokyonight&border_color=6366f1&border_radius=10)](https://github.com/kumartusha)
+[![RAG Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=kumartusha&repo=saarthi-rag-chatbot&theme=tokyonight&border_color=6366f1&border_radius=10)](https://github.com/kumartusha)
+
 </div>
-<br/><br/><br/><br/><br/><br/>
+
+<br/>
 
 <h4 align="center">
-  <a href="https://github.com/kumartusha?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/kumartusha?tab=repositories">🔎 View All Repositories 🔍</a>
 </h4>
 
+---
 
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kumartusha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&icon_color=818cf8&title_color=818cf8" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kumartusha&theme=tokyonight&hide_border=true&border_radius=10&ring=818cf8&fire=f97316&currStreakLabel=818cf8" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumartusha&theme=tokyonight&hide_border=true&layout=compact&border_radius=10&title_color=818cf8" />
+</div>
 
+<br/>
 
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumartusha&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true&color=818cf8&line=6366f1&point=f97316" width="100%"/>
 
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+---
 
--->
+## 🏅 Certifications & Community
+
+| Badge | Certification | Issuer |
+|-------|--------------|--------|
+| 🟠 | [Generative AI Fundamentals](https://credentials.databricks.com/7869d0a3-0f16-4b4a-aeae-0dda58254bcd) | Databricks |
+| ☁️ | Google Cloud Arcade Program '24 — Led **1,500+ member** learning community | Google Cloud |
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Open to AI/ML Engineer · GenAI Engineer · Agentic AI Engineer roles
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kumar-ai/)
+[![Email](https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumartushar78867@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0d1b2a,70:1a1040,100:0f0c29&height=130&section=footer&animation=fadeIn"/>
+
+</div>
