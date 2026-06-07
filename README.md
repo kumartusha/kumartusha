@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020010,30:0a0028,60:050020,100:000008&height=280&section=header&text=TUSHAR%20KUMAR&fontSize=72&fontColor=c084fc&fontAlignY=45&desc=AI%20·%20ML%20ENGINEER%20·%20AGENTIC%20SYSTEMS%20T&descSize=17&descAlignY=65&descColor=818cf8&stroke=7c3aed&strokeWidth=2&animation=fadeIn&rotate=0&reversal=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020010,30:0a0028,60:050020,100:000008&height=280&section=header&text=TUSHAR%20KUMAR&fontSize=72&fontColor=c084fc&fontAlignY=45&desc=AI%20·%20ML%20ENGINEER%20·%20AGENTIC%20SYSTEMS%20&descSize=17&descAlignY=65&descColor=818cf8&stroke=7c3aed&strokeWidth=2&animation=fadeIn&rotate=0&reversal=false"/>
 
 </div>
 
