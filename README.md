@@ -1,256 +1,295 @@
-<!-- ============================================================
-     TUSHAR KUMAR — AI/ML ENGINEER — GITHUB PROFILE README
-     Design: Terminal Noir × Neural Network Aesthetic
-     ============================================================ -->
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!-- ║   TUSHAR KUMAR — AI/ML ENGINEER — 2025 README   ║ -->
+<!-- ║   Aesthetic: Neural Network × Cyberpunk Glass    ║ -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:0a0a0f,70:0d1117,100:000000&height=160&section=header&text=TUSHAR%20KUMAR&fontSize=52&fontColor=00ff88&fontAlignY=50&desc=AI%20·%20ML%20ENGINEER%20·%20SYSTEMS%20BUILDER&descSize=16&descAlignY=75&descColor=888888&stroke=00ff88&strokeWidth=1&animation=blinking"/>
-
-</div>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  $ whoami                                                        ║
-║  > AI/ML Engineer | Building Production AI Systems from Scratch  ║
-║                                                                  ║
-║  $ cat mission.txt                                               ║
-║  > Transform unstructured chaos into intelligent, deployed       ║
-║    systems that create measurable business impact.               ║
-║                                                                  ║
-║  $ uptime                                                        ║
-║  > 1+ year shipping AI to production — not just notebooks        ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020010,30:0a0028,60:050020,100:000008&height=280&section=header&text=TUSHAR%20KUMAR&fontSize=72&fontColor=c084fc&fontAlignY=45&desc=AI%20·%20ML%20ENGINEER%20·%20AGENTIC%20SYSTEMS%20ARCHITECT&descSize=17&descAlignY=65&descColor=818cf8&stroke=7c3aed&strokeWidth=2&animation=fadeIn&rotate=0&reversal=false"/>
 
 </div>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=800&color=00FF88&center=true&vCenter=true&width=750&lines=⟶+Agentic+AI+%7C+LangGraph+%7C+Multi-Agent+Systems;⟶+RAG+Pipelines+%7C+pgvector+%7C+Semantic+Search;⟶+Voice+AI+%7C+Whisper+%7C+Speaker+Diarisation;⟶+Document+Intelligence+%7C+IDP+%7C+LLM+Vision;⟶+FastAPI+%7C+AWS+%7C+Docker+%7C+Production+Deployment" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=600&color=C084FC&center=true&vCenter=true&multiline=false&width=780&height=40&lines=🧠+Building+Agentic+AI+Systems+That+Actually+Ship;⚡+LangGraph+·+RAG+·+Voice+AI+·+Multi-Agent+Orchestration;🔬+From+Unstructured+Chaos+→+Production+Intelligence;🚀+1%2B+Year+·+Sole+AI%2FML+Engineer+·+Real+Business+Impact" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/_%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/tushar-kumar-ai/)
-[![Gmail](https://img.shields.io/badge/_%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:kumartushar78867@gmail.com)
-[![GitHub](https://img.shields.io/badge/_%20GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515)](https://github.com/kumartusha)
-[![HackerRank](https://img.shields.io/badge/_%20HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=00EA64)](https://www.hackerrank.com/profile/kumartushar78867)
-[![Stack Overflow](https://img.shields.io/badge/_%20Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=F58025)](https://stackoverflow.com/users/21324150/tushar)
+<br/>
 
-![](https://komarev.com/ghpvc/?username=Kumartusha&style=for-the-badge&color=00ff88&label=NEURAL+CONNECTIONS+MADE&abbreviated=true)
+<!-- ══════════ SOCIAL BADGES ══════════ -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kumar-ai/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumartushar78867@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumartusha)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/kumartushar78867)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21324150/tushar)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kumartusha&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&abbreviated=true)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════ 3D CONTRIBUTION GRAPH ══════════ -->
+<div align="center">
+
+### 🌐 3D Contribution Universe
+
+<img src="https://github.com/Kumartusha/Kumartusha/blob/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Kumartusha&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=12&title_color=00ff88&icon_color=00ff88&text_color=cccccc&bg_color=0d1117"/>
+<!-- ══════════ ABOUT ME ══════════ -->
 
-## `$ cat about_me.py`
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Kumartusha&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&border_radius=16&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&bg_color=0d0d1a&ring_color=7c3aed"/>
+
+## 🧬 System Init: `whoami`
 
 ```python
 class TusharKumar:
-    """
-    AI/ML Engineer — Production Systems Builder
-    Vansun Ventures (91Trucks) · Founder's Office
-    """
-    location    = "Gurugram, India 🇮🇳"
-    experience  = "1+ yr · Sole AI/ML Engineer"
-    
-    expertise = [
-        "Agentic AI & Multi-Agent Systems",
-        "RAG Pipelines & Vector Search",  
-        "Voice AI & Speaker Diarisation",
-        "Document Intelligence (IDP)",
-        "LLM Evaluation & Safety",
+    role       = "AI/ML Engineer"
+    company    = "Vansun Ventures · 91Trucks"
+    team       = "Founder's Office (Sole AI/ML)"
+    location   = "Gurugram, India 🇮🇳"
+    xp         = "1+ yr · Full lifecycle ownership"
+
+    stack = [
+        "LangGraph", "LangChain", "LlamaIndex",
+        "RAG", "pgvector", "Whisper", "FastAPI",
+        "AWS", "Docker", "Pydantic", "MLflow"
     ]
-    
-    superpower  = """
-        Own the FULL lifecycle:
-        Problem → Architecture → Pipeline
-        → Deployment → Business Impact
-    """
-    
-    philosophy = "Ship it. Measure it. Improve it."
+
+    building_now = [
+        "Enterprise MCP Copilot",
+        "Clinical Voice AI Pipeline",
+        "Financial Research Agent",
+    ]
+
+    mantra = "Ship it. Measure it. Improve it."
 ```
 
 <br clear="right"/>
 
 ---
 
-## `$ ./show_impact.sh --production-only`
-
+<!-- ══════════ ANIMATED SNAKE ══════════ -->
 <div align="center">
 
-| 🔴 LIVE SYSTEM | ARCHITECTURE | KEY METRIC |
-|:---|:---|:---:|
-| 🤖 **Saarthi RAG Chatbot** | LangChain · Sentence Transformers · pgvector/PG | Hallucination **↓ 64%** |
-| 📍 **Dealer Recommendation Engine** | Ball Tree KNN · PostGIS · FastAPI | Latency **↓ 82%** (450ms→80ms) |
-| 🎙️ **Call Intelligence Platform** | Whisper large-v3 · pyannote · LLM Extraction | WER **↓ 55%** · F1 **0.83** |
-| 📄 **Vehicle Document IDP** | Unstructured.io · pdfplumber · LLM Vision | Field Accuracy **>94%** |
-| 📊 **Auction ETL Intelligence** | Multi-source ETL · LangChain SQL Agent | **2.5 hrs/day** saved |
-| 🏥 **Clinical Discharge Agent** | LangGraph · Pydantic · LLM-as-a-Judge | Doc time **↓ 80%** |
+### 🐍 Contribution Snake — Watch It Feed
 
-> 💀 Zero notebooks. Zero demos. **All of the above are in production.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kumartusha/Kumartusha/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kumartusha/Kumartusha/blob/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://github.com/Kumartusha/Kumartusha/blob/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
 ---
 
-## `$ ls -la tech_stack/`
+<!-- ══════════ AGENTIC ARCHITECTURE ══════════ -->
 
-<div align="center">
-
-### ◈ AGENTIC & GENERATIVE AI
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=00ff88)
-![LangGraph](https://img.shields.io/badge/LangGraph-00ff88?style=flat-square&logoColor=black)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF4444?style=flat-square&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-F97316?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-ffffff?style=flat-square&logoColor=black)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![RAGAS](https://img.shields.io/badge/RAGAS_Eval-6366f1?style=flat-square&logoColor=white)
-
-### ◈ CLASSICAL ML & DATA SCIENCE
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-ff6b6b?style=flat-square&logoColor=white)
-
-### ◈ VOICE & DOCUMENT AI
-
-![Whisper](https://img.shields.io/badge/Whisper_large--v3-412991?style=flat-square&logo=openai&logoColor=white)
-![pyannote](https://img.shields.io/badge/pyannote.audio-7C3AED?style=flat-square&logoColor=white)
-![Unstructured](https://img.shields.io/badge/Unstructured.io-0F172A?style=flat-square&logoColor=00ff88)
-![pdfplumber](https://img.shields.io/badge/pdfplumber-DC2626?style=flat-square&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR_Pipelines-059669?style=flat-square&logoColor=white)
-
-### ◈ INFRASTRUCTURE & DEPLOYMENT
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL+pgvector-316192?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_S3·SQS·EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP_CloudRun·Vertex-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## `$ git log --oneline --graph featured_projects`
+## 🤖 My Agentic AI Mental Model
 
 ```
-* ██████  🏥  Agentic Clinical Discharge Summary Generator
-|         4-node LangGraph: NER → Reconciler → Drafter → Safety Judge
-|         80%+ doc time reduction · $730K/yr hospital savings potential
-|
-* ██████  🤖  Saarthi — Production RAG Chatbot
-|         LangChain + pgvector + Sentence Transformers
-|         Hallucination ↓ 64% on golden eval set
-|
-* ██████  🎙️  Call Intelligence Platform  
-|         300+ daily calls · Whisper + pyannote + LLM Extraction
-|         Surfaced 38% lost leads had unresolved financing objections
-|
-* ██████  📄  Vehicle Document Intelligence (IDP)
-          Cascade: Unstructured.io → pdfplumber → LLM Vision
-          >94% accuracy · Manual review ↓ 80%
+╔═══════════════════════════════════════════════════════════════════╗
+║                    PRODUCTION AI PIPELINE                         ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║  [RAW DATA]──►[NER AGENT]──►[RECONCILER]──►[DRAFTER]──►[SAFETY] ║
+║       │              │              │             │          │    ║
+║   Clinical       Extract        Validate      Synthesize  Judge  ║
+║    Notes         Entities       Against       SOAP Note   ✓/✗   ║
+║                               GroundTruth                        ║
+║                                                                   ║
+║  ◈ LangGraph StateGraph  ◈ Pydantic Contracts  ◈ HITL Gates      ║
+║  ◈ AgentState Memory     ◈ Tool Calling        ◈ RAGAS Eval      ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+  ORCHESTRATION: LangGraph ──► Deterministic DAG, not random chat
+  MEMORY:        AgentState TypedDict ──► Ephemeral shared context
+  SAFETY:        LLM-as-a-Judge ──► Hallucination detection layer
+  OUTPUT:        Pydantic-enforced JSON ──► No parsing failures
 ```
+
+---
+
+<!-- ══════════ PRODUCTION IMPACT ══════════ -->
+
+## ⚡ Production Systems — Real Metrics
 
 <div align="center">
 
-[![Clinical Agent](https://github-readme-stats.vercel.app/api/pin/?username=kumartusha&repo=clinical-discharge-agent&theme=chartreuse-dark&border_color=00ff88&border_radius=10&title_color=00ff88)](https://github.com/kumartusha)
-[![RAG Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=kumartusha&repo=saarthi-rag-chatbot&theme=chartreuse-dark&border_color=00ff88&border_radius=10&title_color=00ff88)](https://github.com/kumartusha)
+|  | SYSTEM | ARCHITECTURE | IMPACT |
+|:---:|:---|:---|:---:|
+| 🤖 | **Saarthi RAG Chatbot** | LangChain · Sentence Transformers · pgvector | Hallucination **↓ 64%** |
+| 📍 | **Dealer Recommendation Engine** | Ball Tree KNN · PostGIS · FastAPI | Latency **↓ 82%** P95 |
+| 🎙️ | **Call Intelligence Platform** | Whisper v3 · pyannote · LLM Extraction | WER **↓ 55%** · F1 **0.83** |
+| 📄 | **Vehicle Document IDP** | Unstructured.io · pdfplumber · LLM Vision | Accuracy **>94%** |
+| 📊 | **Auction ETL Intelligence** | Multi-source ETL · LangChain SQL Agent | **2.5 hrs/day** saved |
+| 🏥 | **Clinical Discharge Agent** | LangGraph · Pydantic · LLM-as-a-Judge | Doc time **↓ 80%** |
 
-<h4><a href="https://github.com/kumartusha?tab=repositories">⟶ EXPLORE ALL REPOSITORIES ⟵</a></h4>
+> 🔴 **All systems above are live in production — zero toy demos.**
 
 </div>
 
 ---
 
-## `$ htop --metrics`
+<!-- ══════════ TECH STACK ══════════ -->
+
+## 🛠️ Neural Arsenal
 
 <div align="center">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kumartusha&theme=chartreuse-dark&hide_border=true&border_radius=10&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88&sideLabels=888888&dates=888888&background=0d1117"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumartusha&theme=chartreuse-dark&hide_border=true&layout=compact&border_radius=10&title_color=00ff88&bg_color=0d1117&text_color=cccccc"/>
+
+**〔 AGENTIC & GENERATIVE AI 〕**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-7c3aed?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF4444?style=for-the-badge&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-F97316?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS_Eval-6366f1?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-c084fc?style=for-the-badge&logoColor=white)
+
+**〔 CLASSICAL ML 〕**
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP_Explainability-ff6b6b?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**〔 VOICE & DOCUMENT AI 〕**
+
+![Whisper](https://img.shields.io/badge/Whisper_large--v3-412991?style=for-the-badge&logo=openai&logoColor=white)
+![pyannote](https://img.shields.io/badge/pyannote.audio-7C3AED?style=for-the-badge&logoColor=white)
+![Unstructured](https://img.shields.io/badge/Unstructured.io-0F172A?style=for-the-badge&logoColor=c084fc)
+![pdfplumber](https://img.shields.io/badge/pdfplumber-DC2626?style=for-the-badge&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR_Pipelines-059669?style=for-the-badge&logoColor=white)
+
+**〔 INFRA & DEPLOYMENT 〕**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL+pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<!-- ══════════ GITHUB STATS ══════════ -->
+
+## 📊 System Metrics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kumartusha&theme=midnight-purple&hide_border=true&border_radius=16&ring=c084fc&fire=f97316&currStreakLabel=c084fc&sideLabels=818cf8&dates=6b7280&background=0d0d1a&stroke=7c3aed"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumartusha&theme=midnight-purple&hide_border=true&layout=compact&border_radius=16&title_color=c084fc&bg_color=0d0d1a&text_color=e2e8f0&langs_count=8"/>
+
 </div>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumartusha&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&area=true&color=00ff88&line=00cc66&point=ffffff&area_color=00ff8822" width="100%"/>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumartusha&theme=tokyo-night&bg_color=0d0d1a&hide_border=true&area=true&color=c084fc&line=7c3aed&point=f97316&area_color=7c3aed33&radius=8" width="100%"/>
+</div>
 
 ---
 
-## `$ cat certifications.json`
+<!-- ══════════ FEATURED PROJECTS ══════════ -->
 
-```json
-{
-  "certifications": [
-    {
-      "title": "Generative AI Fundamentals",
-      "issuer": "Databricks",
-      "year": 2024,
-      "verify": "https://credentials.databricks.com/7869d0a3-0f16-4b4a-aeae-0dda58254bcd"
-    }
-  ],
-  "community": {
-    "role": "Google Cloud Arcade Facilitator '24",
-    "community_size": "1500+ members",
-    "focus": "GCP hands-on labs & certifications"
-  }
-}
+## 🔬 Featured Labs
+
+<div align="center">
+
+[![Clinical Discharge Agent](https://github-readme-stats.vercel.app/api/pin/?username=kumartusha&repo=clinical-discharge-agent&theme=midnight-purple&border_color=7c3aed&border_radius=16&title_color=c084fc&bg_color=0d0d1a&icon_color=a855f7)](https://github.com/kumartusha)
+[![Saarthi RAG Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=kumartusha&repo=saarthi-rag-chatbot&theme=midnight-purple&border_color=7c3aed&border_radius=16&title_color=c084fc&bg_color=0d0d1a&icon_color=a855f7)](https://github.com/kumartusha)
+
+<br/>
+
+<h4><a href="https://github.com/kumartusha?tab=repositories">⟶ Explore All Repositories ⟵</a></h4>
+
+</div>
+
+---
+
+<!-- ══════════ CERTIFICATIONS ══════════ -->
+
+## 🏅 Certifications & Community
+
+<div align="center">
+
+| | Credential | Issuer | Link |
+|:---:|:---|:---|:---:|
+| 🟠 | **Generative AI Fundamentals** | Databricks | [![View](https://img.shields.io/badge/Verify-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/7869d0a3-0f16-4b4a-aeae-0dda58254bcd) |
+| ☁️ | **Google Cloud Arcade Facilitator '24** | Google Cloud | Led **1,500+ member** community |
+
+</div>
+
+---
+
+<!-- ══════════ CURRENTLY BUILDING ══════════ -->
+
+## 🔭 Currently Building
+
+```yaml
+portfolio:
+  - name: Enterprise MCP Copilot
+    stack: [MCP Servers, A2A, LangGraph, FastAPI]
+    status: 🔨 In Development
+
+  - name: Clinical Voice AI Pipeline
+    stack: [Whisper, pyannote, LLM, FHIR Export]
+    status: 🔨 In Development
+
+  - name: Financial Research Agent
+    stack: [LangGraph, RAG, LlamaIndex, pgvector]
+    status: 📐 Architecting
 ```
 
 ---
 
-## `$ echo $CURRENTLY_BUILDING`
+<!-- ══════════ OPEN TO ══════════ -->
 
-```bash
-> Multi-Agent LLM Systems for Healthcare & Enterprise
-> Clinical Voice AI Pipeline  
-> Financial Research Agent (LangGraph + RAG)
-> Enterprise MCP Copilot Architecture
-```
-
-## `$ echo $OPEN_TO`
-
-```bash
-> AI Engineer · GenAI Engineer · Agentic AI Engineer
-> Full-time · Hybrid · Remote
-> Roles where AI systems actually ship to production
-```
-
----
+## 💼 Open To
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   "I don't run experiments.  I ship systems."       │
-│                                                     │
-│              — Tushar Kumar                         │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🎯  AI Engineer  ·  GenAI Engineer  ·  Agentic AI Eng    │
+│   📍  Full-time  ·  Hybrid  ·  Remote                      │
+│   ✅  Roles where AI systems actually ship to production    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-[![Hire Me](https://img.shields.io/badge/⟶_HIRE_ME-00ff88?style=for-the-badge&logoColor=black)](mailto:kumartushar78867@gmail.com)
-[![Connect](https://img.shields.io/badge/⟶_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kumar-ai/)
+[![Hire Me](https://img.shields.io/badge/✉_Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumartushar78867@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/🤝_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kumar-ai/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a0f0a,100:000000&height=100&section=footer&animation=fadeIn"/>
+<br/>
+
+> *"I don't run experiments. I ship systems."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:0a0028,100:000008&height=120&section=footer&animation=fadeIn"/>
 
 </div>
